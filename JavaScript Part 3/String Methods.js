@@ -2,8 +2,8 @@
 let str = " prahlad  ";
 console.log (str.trim());
 
-let b = " apna  collage  ";
-console.log (b.trim());
+let bn = " apna  collage  ";
+console.log (bn.trim());
 
 let c = " apnacollage     ";
 console.log (c.trim());
@@ -41,4 +41,5 @@ console.log (y.replace("m","n"));
 // repeat method
 let z ="Gym";
 console.log (z.repeat(2));
+
 console.log (z.repeat(5));

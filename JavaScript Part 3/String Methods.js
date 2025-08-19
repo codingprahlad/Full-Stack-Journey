@@ -13,8 +13,8 @@ console.log (c.trim());
 let d = "surya";
 console.log (d.toUpperCase());
 
-let e = "surya";
-console.log (e.toLowerCase());
+let name = "surya";
+console.log (name.toLowerCase());
 
 
 //method argument index of
@@ -43,3 +43,4 @@ let z ="Gym";
 console.log (z.repeat(2));
 
 console.log (z.repeat(5));
+

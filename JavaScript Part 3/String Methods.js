@@ -1,6 +1,6 @@
 // trim method
-let str = " prahlad  ";
-console.log (str.trim());
+let strr = " prahlad  ";
+console.log (strr.trim());
 
 let bn = " apna  collage  ";
 console.log (bn.trim());
@@ -33,9 +33,9 @@ console.log (s.slice(-3));
 
 
 // replace method
-let y = "Iam complan boy";
-console.log (y.replace("boy","girl"));
-console.log (y.replace("m","n"));
+let str = "Iam complan boy";
+console.log (str.replace("boy","girl"));
+console.log (str.replace("m","n"));
  
 
 // repeat method
@@ -43,4 +43,5 @@ let z ="Gym";
 console.log (z.repeat(2));
 
 console.log (z.repeat(5));
+
 

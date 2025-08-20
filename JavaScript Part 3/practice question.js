@@ -11,13 +11,16 @@ console.log (name.slice(4,9));
 console.log (name.indexOf("na"));
 console.log (name.replace("apna","our"));
 
-// 2 numbers have the same last digit
+// 2 number have the same last digit
 let ravi = 4632 ;
 let prashant = 1002 ;
 if(( ravi% % 10) == (prashant % 10)) {
   console.log ("Number have the same last digit which is" , ravi % 10);
 }
 else{
+  console.log ("Number dont have the same last digit");
+}
   
+
 
 

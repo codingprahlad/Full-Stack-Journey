@@ -16,9 +16,10 @@ switch (color) {
 
 // prompts
 
-let first = promt ("Enter your name:");
+let firstname = promt ("Enter your name:");
 console.log (fisrtname);
 console.warn ("Miss matching name :",fisrtname );
+
 
 
 

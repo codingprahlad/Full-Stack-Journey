@@ -1,4 +1,4 @@
-let color = "red";
+let  = "red";
 switch (color) {
     case "red" :
         console.log("Stop");
@@ -19,4 +19,5 @@ switch (color) {
 let firstName = promt ("Enter your name:");
 console.log (fisrtname);
 console.warn ("Miss matching name :",fisrtname );
+
 
